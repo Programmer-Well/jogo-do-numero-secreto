@@ -3,7 +3,7 @@
 <h2>Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 
-<p>https://jogo-five-tau-67.vercel.app/</p>
+<p>https://jogo-do-numero-secreto-blond-alpha.vercel.app/</p>
 
 Tecnologias
 <div>
