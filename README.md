@@ -3,6 +3,8 @@
 <h2>Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 
+<p>https://jogo-five-tau-67.vercel.app/</p>
+
 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
